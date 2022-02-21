@@ -1,5 +1,13 @@
 # Tarkkarikiikari
 
-Komennolla /kiikari näet tarkkuuskivääreillä tähdätessä rangen/kuinka pitkälle tähtäät kiväärillä
+Käyttämällä itemin kiikari FiveM palvelimellasi sinulle aukeaa valikko
 
-Komennolla /kiikaripois et enään näe kuinka pitkälle tähtäät / kiikari menee pois
+- Kiikari: näet tarkkuuskivääreillä tähdätessä rangen/kuinka pitkälle tähtäät kiväärillä
+- Lämpökamera näet tarkkuuskiväärillä tähdätessä kaiken lämpökameran läpi
+- Yönäkö näet tarkkuuskiväärillä tähdätessä kaiken yönäöllä
+
+Valikosta voit myös ottaa Kiikarin, Lämpökameran tai Yönäön pois päältä 
+
+Kiikari valikko : 
+
+<img src = "https://i.imgur.com/Kuzhtqn.png"> 
